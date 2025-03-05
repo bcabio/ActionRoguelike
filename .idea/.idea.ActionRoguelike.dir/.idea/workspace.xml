@@ -7,28 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b4c1db0-2750-4044-9089-e4f7ebe44e71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ActionRoguelike.dir/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ActionRoguelike.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ActionRoguelike.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ActionRoguelike.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ActionRoguelike.dir/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vsconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ActionRoguelike.uproject" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ActionRoguelike.Target.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ActionRoguelike/ActionRoguelike.Build.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ActionRoguelike/ActionRoguelike.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ActionRoguelike/ActionRoguelike.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ActionRoguelike/Private/SCharacter.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ActionRoguelike/Public/SCharacter.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ActionRoguelikeEditor.Target.cs" afterDir="false" />
-    </list>
+    <list default="true" id="8b4c1db0-2750-4044-9089-e4f7ebe44e71" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740652754786</updated>
-      <workItem from="1740652757657" duration="14159000" />
+      <workItem from="1740652757657" duration="14533000" />
     </task>
     <servers />
   </component>
